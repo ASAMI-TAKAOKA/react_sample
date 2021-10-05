@@ -1,0 +1,15 @@
+current directory: /Users/asamitakaoka/project/react_sample/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.1/ext/bootsnap
+/Users/asamitakaoka/.rbenv/versions/3.0.0/bin/ruby -I /Users/asamitakaoka/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20211005-45082-l6jrjq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/asamitakaoka/project/react_sample/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/asamitakaoka/project/react_sample/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/asamitakaoka/project/react_sample/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20211005-45082-s75yd4/bootsnap
